@@ -1,0 +1,85 @@
+
+div{
+    border: 5px solid black;
+    padding: 10px;
+    min-height: 100px;
+    background: lightslategray;
+    
+}
+.menu_button{
+    padding: 0px,10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 1330px;
+    margin-right: 5px;
+    width: 50px;
+    min-height: 100px;
+    background: wheat;
+}
+.sec_box{
+    background: #213D77;
+    padding: 10px, 20px;
+    min-height: 100px;
+    min-width: 100px;
+}
+.inside_sec_box{
+    margin: 15px;
+    padding: 10px, 0px, 0px;
+    background-color: aliceblue;
+    min-height: 100px;
+    min-width: 100px;
+}
+.side{
+    width: 30%;
+    background: lightgrey;
+    
+}
+.second_side{
+    width: 70%;
+    background: lightgray;
+}
+.partition{
+    display: flex;
+    background: lightgray;
+}
+.line{
+    width: -30%;
+    background: lightgrey;
+}
+.sections{
+    min-width: 1444px;
+    display: flex;
+}
+.sections{
+    width: calc(1444/4);
+    background: #2c215d;
+}
+.one{
+    width: 25%;
+    background: lightgrey;
+    
+}
+.two{
+    width: 25%;
+    background: lightgrey;
+}
+.three{
+    width: 25%;
+    background: lightgrey;
+}
+.four{
+    width: 25%;
+    background: lightgrey;
+}
+.footer{
+    background: lightgray;
+}
+.upper{
+    background: purple;
+}
+.nav{
+    background: lightgray;
+}
+.interior{
+    background: lightgrey;
+}
